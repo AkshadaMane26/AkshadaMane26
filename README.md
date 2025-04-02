@@ -1,45 +1,42 @@
 <h1 align="center">Hi , I'm Akshada Mane <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=700&height=100&lines=Aspiring+Software+Engineer;BTech+Computer+Engineering+Student;AI/ML+Enthusiast+%7C+Web+Developer;Finalist+at+Technofea+2.0+Hackathon;She+Inspires+Hackathon+Top+160;Passionate+about+DSA+and+Competitive+Programming;Always+learning+new+things">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=700&height=100&lines=Aspiring+Software+Engineer;BTech+Computer+Engineering+Student;AI/ML+Enthusiast+%7C+Web+Developer;Finalist+at+Technofea+2.0+Hackathon;Zensar's+She+Inspires+Hackathon+Finalist;Passionate+about+DSA+and+Competitive+Programming;Always+learning+new+things">
   </a>
 </p>
 	
-## <picture><img src = "https://github.com/AkshadaMane26/AkshadaMane26/blob/main/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/AkshadaMane26/AkshadaMane26/blob/main/images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/AkshadaMane26/AkshadaMane26/blob/main/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/AkshadaMane26/AkshadaMane26/blob/main/images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
+<br>
 
 - :school: I am a `Pre-Final Year` BTech Computer Engineering Student.  
 - :trophy: 2x `Hackathon` Finalist.  
 - :technologist: I love using Software as a solution for every `Problem`.    
 - :nerd_face: Always `learning new things`.  
-- :thinking: I’m currently open for `internships` and `collaborations`, this is [MY RESUME](http:). 
+- :thinking: I’m currently open for `internships` and `collaborations`, this is [MY RESUME](https://drive.google.com/file/d/1rP6rcy3ATtPUf8qATHYuN6CH7O-fH3a1/view?usp=sharing). 
 - :boom: You can visit [MY PORTFOLIO](https:).
 <br>
 
 
-## <picture> <img src="https://github.com/AkshadaMane26/AkshadaMane26/blob/main/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
+## <picture> <img src="https://github.com/AkshadaMane26/AkshadaMane26/blob/main/images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/u/Akshada2004/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
+  <a href="https://leetcode.com/u/Akshada2004/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a> 
   <a href="https://www.geeksforgeeks.org/user/akshada290tn/"><img src="https://img.icons8.com/color/50/000000/GeeksforGeeks.png" alt="GFG"/></a>
 </p>
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+## <picture> <img src="https://github.com/AkshadaMane26/AkshadaMane26/blob/main/images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 	<a href="mailto:makshada2004@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/AkshadaMane26"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="http://www.linkedin.com/in/akshada-mane-b93738258"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	
-</p
+</p>
 
 
-
-## 🛠️ My Skills
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming Languages
+### <picture> <img src = "https://github.com/AkshadaMane26/AkshadaMane26/blob/main/images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming Languages
 
 <p align="center"> 
   &emsp;
@@ -57,7 +54,7 @@
 </p>
 
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
+### <picture> <img src = "https://github.com/AkshadaMane26/AkshadaMane26/blob/main/images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -80,7 +77,7 @@
 
 
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> Frameworks & Libraries
+ ### <picture> <img src = "https://github.com/AkshadaMane26/AkshadaMane26/blob/main/images/IDEs.gif?raw=true" width = 50px>  </picture> Frameworks & Libraries
  
 <p align="center"> 
 	&emsp; 
@@ -103,7 +100,7 @@
 	<a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white"></a> 
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Tools
+ ### <picture> <img src = "https://github.com/AkshadaMane26/AkshadaMane26/blob/main/images/CP_PS.gif?raw=true" width = 50px>  </picture> Tools
 
 <p align="center"> 
 	&emsp; 
@@ -116,7 +113,7 @@
 	<a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=plastic&logo=tableau&logoColor=white"></a> 
 </p>
 
-### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=50px> </picture> Development Platforms & IDEs
+### <picture> <img src="https://github.com/AkshadaMane26/AkshadaMane26/blob/main/images/Software_Tools.gif?raw=true" width=50px> </picture> Development Platforms & IDEs
 
 <p align="center"> 
 	&emsp; 
@@ -124,11 +121,8 @@
 	&emsp; 
 	<a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a> 
 	&emsp; 
-	<a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-%23000000.svg?style=plastic&logo=pycharm&logoColor=white"></a> </p>
-
-
-
-
+	<a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-%23000000.svg?style=plastic&logo=pycharm&logoColor=white"></a> 
+</p>
  
 <br> 
 
