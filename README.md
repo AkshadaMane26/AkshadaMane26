@@ -16,7 +16,7 @@
 - :technologist: I love using Software as a solution for every `Problem`.    
 - :nerd_face: Always `learning new things`.  
 - :thinking: I’m currently open for `internships` and `collaborations`, this is [MY RESUME](https://drive.google.com/file/d/1rP6rcy3ATtPUf8qATHYuN6CH7O-fH3a1/view?usp=sharing). 
-- :boom: You can visit [MY PORTFOLIO](https:).
+- :boom: You can visit [MY PORTFOLIO](https://AkshadaMane26.github.io/My-Portfolio/).
 <br>
 
 
@@ -100,18 +100,6 @@
 	<a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white"></a> 
 </p>
 
- ### <picture> <img src = "https://github.com/AkshadaMane26/AkshadaMane26/blob/main/images/CP_PS.gif?raw=true" width = 50px>  </picture> Tools
-
-<p align="center"> 
-	&emsp; 
-	<a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power_BI-%23F2C811.svg?style=plastic&logo=powerbi&logoColor=black"></a> 
-	&emsp; 
-	<a href="#"><img alt="Excel" src="https://img.shields.io/badge/Excel-%23217346.svg?style=plastic&logo=microsoftexcel&logoColor=white"></a> 
-	&emsp; 
-	<a href="#"><img alt="PowerPoint" src="https://img.shields.io/badge/PowerPoint-%23B7472A.svg?style=plastic&logo=microsoftpowerpoint&logoColor=white"></a> 
-	&emsp; 
-	<a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=plastic&logo=tableau&logoColor=white"></a> 
-</p>
 
 ### <picture> <img src="https://github.com/AkshadaMane26/AkshadaMane26/blob/main/images/Software_Tools.gif?raw=true" width=50px> </picture> Development Platforms & IDEs
 
@@ -120,8 +108,6 @@
 	<a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=plastic&logo=jupyter&logoColor=white"></a> 
 	&emsp; 
 	<a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a> 
-	&emsp; 
-	<a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-%23000000.svg?style=plastic&logo=pycharm&logoColor=white"></a> 
 </p>
  
 <br> 
