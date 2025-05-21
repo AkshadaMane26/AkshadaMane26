@@ -15,8 +15,8 @@
 - :trophy: 2x `Hackathon` Finalist.  
 - :technologist: I love using Software as a solution for every `Problem`.    
 - :nerd_face: Always `learning new things`.  
-- :thinking: I’m currently open for `internships` and `collaborations`, this is [MY RESUME](https://drive.google.com/file/d/1rP6rcy3ATtPUf8qATHYuN6CH7O-fH3a1/view?usp=sharing). 
-- :boom: You can visit [MY PORTFOLIO](https://AkshadaMane26.github.io/My-Portfolio/).
+- :thinking: I’m currently open for `internships` and `collaborations`, this is [MY RESUME](). 
+- :boom: You can visit [MY PORTFOLIO]().
 <br>
 
 
