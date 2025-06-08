@@ -12,8 +12,7 @@
 
 <img align="right" src="https://github.com/AkshadaMane26/AkshadaMane26/blob/main/images/Right_Side.gif?raw=true" width="250px">
 
-- 🎓 Pre-Final Year BTech Computer Engineering Student  
-- 💡 2x Hackathon Finalist (Technofea 2.0, Zensar She Inspires)  
+- 🎓 Final Year BTech Computer Engineering Student  
 - 👩‍💻 I build solutions using AI/ML and Web Development  
 - 🌱 Currently exploring new technologies and sharpening my DSA skills  
 - 📬 Looking for internships, collaborations, and exciting projects  
