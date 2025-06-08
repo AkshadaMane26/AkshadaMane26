@@ -14,11 +14,8 @@
 
 🎓 Final Year BTech Computer Engineering Student  
 🚀 Turning ideas into impactful solutions using AI/ML & Web Development  
-🛠️ Currently deep diving into DSA, system design, and scalable web apps  
 🌱 Always learning, always building  
-🎯 Hackathon Finalist – DecodeX, Zensar *She Inspires*, Technofea 2.0  
 🔍 Actively seeking internships, real-world collaborations, and meaningful projects  
-📄 [View My Resume](#) • 🌐 [Visit My Portfolio](#)
 
 ---
 
