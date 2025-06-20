@@ -18,7 +18,6 @@
 - 🎓 Final Year BTech Computer Engineering Student at VIIT, Pune  
 - 🚀 Passionate about building intelligent AI/ML solutions and beautiful web apps  
 - 🌱 Lifelong learner always exploring new technologies & frameworks  
-- 💡 Strong problem solver with a knack for algorithms & data structures  
 - 🔍 Open to internships, collaborative projects, and mentorship opportunities  
 - 📫 Reach me anytime via LinkedIn or email below!
 
